@@ -335,5 +335,7 @@ print("""                  .-:?,Z?:&$dHH##b\\_
            ` .               -          .-
               ` .                    .-
                   ' -==pHMMH##HH#'''""")
+print('\u001b[0m')
+print('THE END')
   
   
